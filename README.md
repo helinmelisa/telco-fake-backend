@@ -1,8 +1,8 @@
 <p align="center">
-  <a href="https://github.com/ahmet-cetinkaya/northwind-json-server">🗄️</a>
-  <h3 align="center">northwind-json-server</h3>
+  <a href="https://github.com/ahmet-cetinkaya-other/kodlamaio-etiya-telco-json-server">🗄️</a>
+  <h3 align="center">Kodlamaio Etiya Telco Json Server</h3>
   <p align="center">
-    Fake Backend service of Northwind database for frontend tutorials.
+    Fake Backend service of example telecommunication database for frontend tutorials.
   </p>
 </p>
 
@@ -21,7 +21,7 @@ To get a local copy up and running follow these simple steps.
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/ahmet-cetinkaya-other/northwind-json-server.git
+   git clone https://github.com/ahmet-cetinkaya-other/kodlamaio-etiya-telco-json-server.git
    ```
 2. Install NPM packages
    ```sh
