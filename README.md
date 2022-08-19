@@ -27,6 +27,8 @@ To get a local copy up and running follow these simple steps.
    ```sh
    npm install
    ```
+3. Copy `.env.example` and rename as `.env`.
+4. Set `JWT_SECRET_KEY` value in `.env`
 
 ## 🚀 Usage
 
