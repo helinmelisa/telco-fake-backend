@@ -139,7 +139,7 @@
                   "id": 2,
                   "type": {
                     "id": 1,
-                    "typeName": "Catalog",
+                    "typeName": "catalog",
                     "name": "Internet"
                   },
                   "name": "32 Mbps ADSL Internet",
@@ -254,7 +254,7 @@
                   "id": 3,
                   "type": {
                     "id": 2,
-                    "typeName": "campaigns",
+                    "typeName": "campaign",
                     "name": "Friend"
                   },
                   "name": "70 Mbps VDSL for new Customer with friend invention",
@@ -306,7 +306,7 @@
                   "id": 5,
                   "type": {
                     "id": 4,
-                    "typeName": "campaigns",
+                    "typeName": "campaign",
                     "name": "New Customer"
                   },
                   "name": "Mobile Packet Service for new Customer",
@@ -366,7 +366,7 @@
                   "id": 5,
                   "type": {
                     "id": 4,
-                    "typeName": "campaigns",
+                    "typeName": "campaign",
                     "name": "New Customer"
                   },
                   "name": "Mobile Packet Service for new Customer",
@@ -529,7 +529,7 @@
                   "id": 2,
                   "type": {
                     "id": 1,
-                    "typeName": "Catalog",
+                    "typeName": "catalog",
                     "name": "Internet"
                   },
                   "name": "32 Mbps ADSL Internet",
@@ -626,7 +626,7 @@
                   "id": 3,
                   "type": {
                     "id": 2,
-                    "typeName": "campaigns",
+                    "typeName": "campaign",
                     "name": "Friend"
                   },
                   "name": "70 Mbps VDSL for new Customer with friend invention",
@@ -777,7 +777,7 @@
               "id": 1,
               "type": {
                 "id": 1,
-                "typeName": "Catalog",
+                "typeName": "catalog",
                 "name": "Internet"
               },
               "name": "32 Mbps ADSL Internet",
@@ -869,7 +869,7 @@
               "id": 1,
               "type": {
                 "id": 1,
-                "typeName": "Catalog",
+                "typeName": "catalog",
                 "name": "Internet"
               },
               "name": "32 Mbps ADSL Internet",
@@ -918,7 +918,7 @@
               "id": 1,
               "type": {
                 "id": 1,
-                "typeName": "Catalog",
+                "typeName": "catalog",
                 "name": "Internet"
               },
               "name": "32 Mbps ADSL Internet",
@@ -1019,7 +1019,7 @@
               "id": 1,
               "type": {
                 "id": 1,
-                "typeName": "Catalog",
+                "typeName": "catalog",
                 "name": "Internet"
               },
               "name": "32 Mbps ADSL Internet",
@@ -1068,7 +1068,7 @@
               "id": 1,
               "type": {
                 "id": 1,
-                "typeName": "Catalog",
+                "typeName": "catalog",
                 "name": "Internet"
               },
               "name": "32 Mbps ADSL Internet",
@@ -1150,7 +1150,7 @@
               "id": 1,
               "type": {
                 "id": 1,
-                "typeName": "Catalog",
+                "typeName": "catalog",
                 "name": "Internet"
               },
               "name": "32 Mbps ADSL Internet",
@@ -1199,7 +1199,7 @@
               "id": 1,
               "type": {
                 "id": 1,
-                "typeName": "Catalog",
+                "typeName": "catalog",
                 "name": "Internet"
               },
               "name": "32 Mbps ADSL Internet",
@@ -1248,7 +1248,7 @@
               "id": 1,
               "type": {
                 "id": 1,
-                "typeName": "Catalog",
+                "typeName": "catalog",
                 "name": "Internet"
               },
               "name": "32 Mbps ADSL Internet",
@@ -1340,7 +1340,7 @@
               "id": 1,
               "type": {
                 "id": 1,
-                "typeName": "Catalog",
+                "typeName": "catalog",
                 "name": "Internet"
               },
               "name": "32 Mbps ADSL Internet",
@@ -1389,7 +1389,7 @@
               "id": 1,
               "type": {
                 "id": 1,
-                "typeName": "Catalog",
+                "typeName": "catalog",
                 "name": "Internet"
               },
               "name": "32 Mbps ADSL Internet",
@@ -1438,7 +1438,7 @@
               "id": 1,
               "type": {
                 "id": 1,
-                "typeName": "Catalog",
+                "typeName": "catalog",
                 "name": "Internet"
               },
               "name": "32 Mbps ADSL Internet",
@@ -2199,7 +2199,7 @@
                   "id": 3,
                   "type": {
                     "id": 2,
-                    "typeName": "campaigns",
+                    "typeName": "campaign",
                     "name": "Friend"
                   },
                   "name": "70 Mbps VDSL for new Customer with friend invention",
@@ -2253,7 +2253,7 @@
                   "id": 3,
                   "type": {
                     "id": 2,
-                    "typeName": "campaigns",
+                    "typeName": "campaign",
                     "name": "Friend"
                   },
                   "name": "70 Mbps VDSL for new Customer with friend invention",
@@ -2307,7 +2307,7 @@
                   "id": 3,
                   "type": {
                     "id": 2,
-                    "typeName": "campaigns",
+                    "typeName": "campaign",
                     "name": "Friend"
                   },
                   "name": "70 Mbps VDSL for new Customer with friend invention",
@@ -2394,7 +2394,7 @@
                   "id": 3,
                   "type": {
                     "id": 2,
-                    "typeName": "campaigns",
+                    "typeName": "campaign",
                     "name": "Friend"
                   },
                   "name": "70 Mbps VDSL for new Customer with friend invention",
@@ -2535,7 +2535,7 @@
                   "id": 2,
                   "type": {
                     "id": 1,
-                    "typeName": "Catalog",
+                    "typeName": "catalog",
                     "name": "Internet"
                   },
                   "name": "32 Mbps ADSL Internet",
@@ -2601,7 +2601,7 @@
       "id": 2,
       "type": {
         "id": 1,
-        "typeName": "Catalog",
+        "typeName": "catalog",
         "name": "Internet"
       },
       "name": "32 Mbps ADSL Internet",
@@ -2630,7 +2630,7 @@
       "id": 3,
       "type": {
         "id": 2,
-        "typeName": "campaigns",
+        "typeName": "campaign",
         "name": "Friend"
       },
       "name": "70 Mbps VDSL for new Customer with friend invention",
@@ -2682,7 +2682,7 @@
       "id": 5,
       "type": {
         "id": 4,
-        "typeName": "campaigns",
+        "typeName": "campaign",
         "name": "New Customer"
       },
       "name": "Mobile Packet Service for new Customer",
