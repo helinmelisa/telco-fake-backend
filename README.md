@@ -1,6 +1,6 @@
 <p align="center">
-  <a href="https://github.com/ahmet-cetinkaya-other/kodlamaio-etiya-telco-json-server">🗄️</a>
-  <h3 align="center">Kodlamaio Etiya Telco Json Server</h3>
+  <img src="https://user-images.githubusercontent.com/53148314/193017087-50462d66-4ef8-4d36-8107-453af542bb2b.png" height="100">
+  <h3 align="center">Telco Fake Backend Server</h3>
   <p align="center">
     Fake Backend service of example telecommunication database for frontend tutorials.
   </p>
@@ -21,7 +21,7 @@ To get a local copy up and running follow these simple steps.
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/ahmet-cetinkaya-other/kodlamaio-etiya-telco-json-server.git
+   git clone https://github.com/ahmet-cetinkaya-instruction/telco-fake-backend.git
    ```
 2. Install NPM packages
    ```sh
