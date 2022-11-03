@@ -2907,6 +2907,31 @@
       "userName": "test",
       "password": "test",
       "id": 2
+    },
+    {
+      "username": "test",
+      "password": "test",
+      "id": 3
+    },
+    {
+      "username": "test",
+      "password": "test",
+      "id": 4
+    },
+    {
+      "username": "test",
+      "password": "test",
+      "id": 5
+    },
+    {
+      "username": "admin",
+      "password": "admin",
+      "id": 6
+    },
+    {
+      "username": "admin",
+      "password": "admin",
+      "id": 7
     }
   ],
   "roles": [
