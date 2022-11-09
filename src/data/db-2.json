@@ -88,31 +88,36 @@
       "customerId": 1,
       "firstName": "Engin",
       "lastName": "Demirog",
-      "nationalIdentity": 87812104109
+      "nationalIdentity": 87812104109,
+      "birthDate": "13.08.1989"
     },
     {
       "customerId": 3,
       "firstName": "Ahmet",
       "lastName": "Çetinkaya",
-      "nationalIdentity": 49753031123
+      "nationalIdentity": 49753031123,
+      "birthDate": "13.08.1990"
     },
     {
       "customerId": 5,
       "firstName": "Halit",
       "lastName": "Kalaycı",
-      "nationalIdentity": 13487887126
+      "nationalIdentity": 13487887126,
+      "birthDate": "28.12.1992"
     },
     {
       "customerId": 7,
       "firstName": "Mustafa Murat",
       "lastName": "Çoşkun",
-      "nationalIdentity": 56459709203
+      "nationalIdentity": 56459709203,
+      "birthDate": "14.04.2000"
     },
     {
       "customerId": 9,
       "firstName": "Kerem",
       "lastName": "Varış",
-      "nationalIdentity": 63892576561
+      "nationalIdentity": 63892576561,
+      "birthDate": "13.08.1989"
     }
   ],
   "corporateCustomers": [
