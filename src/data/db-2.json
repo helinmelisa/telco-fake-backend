@@ -41,6 +41,26 @@
       "name": "Fatura Ödeme"
     }
   ],
+  "catalogs": [
+    {
+      "id": 1,
+      "name": "Catalog 1",
+      "price": 1000,
+      "serviceId": 1
+    },
+    {
+      "id": 2,
+      "name": "Catalog 2",
+      "price": 2000,
+      "serviceId": 2
+    },
+    {
+      "id": 3,
+      "name": "Catalog 3",
+      "price": 3000,
+      "serviceId": 3
+    }
+  ],
   "customers": [
     {
       "id": 1,
